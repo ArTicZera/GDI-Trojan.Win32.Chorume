@@ -6,6 +6,7 @@ If you want to run it use a Virtual Machine (I recommend <b>Windows XP</b>) or a
 
 # What is the difference about ChorumeDestructive and ChorumeSafe?
 As the name says, ChorumeDestructive is the version that includes the destruction. Overwriting the bootsector (MBR) to the Atari Breakout Game. This version is recommended just for people that uses Virtual Machine or a Sandbox.    
+  
 ChorumeSafe is the version that doesn't have the destruction. So it won't overwrite the (MBR) and you don't need to run it on a Virtual Machine or a Sandbox. Just choose your preference...
 
 # How do I play the MBR game?
