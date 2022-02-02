@@ -16,7 +16,7 @@ Alt   - Move to Right
 
 # 🤝 Credits
 Rekto - Helped me a lot with GDI, thank you so much <3!  
-Energy - Teached me a lot and helped me with the code. Making more efficient. tysm <3
+Energy - Teached me a lot and helped me with the code. Making more efficient. tysm <3  
 Nanochess - Made the Atari Breakout Bootsector game. (Original link: https://github.com/nanochess/bricks)  
 Viznut - Made 3 bytebeats that i used in Chorume.exe  
 And thanks to whoever is reading this :3  
